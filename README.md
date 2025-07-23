@@ -43,7 +43,7 @@ app/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/pedrorocha84/click-counter-java.git
+   git clone https://github.com/PedroRocha84/android-java-click-counter.git
 
 2. Open the project in Android Studio 
 3. Launch an emulator or connect a device
