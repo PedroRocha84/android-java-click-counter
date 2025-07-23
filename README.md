@@ -7,18 +7,14 @@ This is a simple **Click Counter** app and my starting point into Android Develo
 - Clean and minimal UI
 - Increment counter with a single tap
 - Reset button to clear the count
-- Built in Java (no Kotlin required)
-- Log register using LogCat to check inner activity and debugging.
+- Built using Java
+- Log events and check using LogCat the inner activity and debugging.
 
 ## 🛠️ Built With
 
 - **Android Studio**
 - **Java**
 - **XML Layouts**
-
-## 📱 Screenshots
-
-*(Add emulator or device screenshots here)*
 
 ## 📁 Project Structure
 ```
