@@ -3,4 +3,5 @@
     <string name="counter">Counter</string>
     <string name="_0">0</string>
     <string name="bntClick">+</string>
+    <string name="reset">Reset</string>
 </resources>
