@@ -1,4 +1,4 @@
-<img width="410" height="732" alt="image" src="https://github.com/user-attachments/assets/715f93fc-7c82-4e85-8724-66d1ffa3b55b" /># 🧮 Click Counter – My First Android App in Java
+# 🧮 Click Counter – My First Android App in Java
 
 This is a simple **Click Counter** app and my starting point into Android Development using **Java**. The app displays a number that increases each time a button is clicked, with an option to reset the count.
 
