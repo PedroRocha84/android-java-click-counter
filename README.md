@@ -21,11 +21,12 @@ This is a simple **Click Counter** app and my starting point into Android Develo
 *(Add emulator or device screenshots here)*
 
 ## 📁 Project Structure
+```
 app/
 ├── src/
 │ ├── main/
 │ │ ├── java/
-│ │ │ └── com/yourname/clickcounter/
+│ │ │ └── pt/pedrorocha/android/clickcounter/
 │ │ │ └── MainActivity.java
 │ │ ├── res/
 │ │ │ ├── layout/
@@ -33,7 +34,7 @@ app/
 │ │ │ └── values/
 │ │ │ └── strings.xml
 │ │ └── AndroidManifest.xml
-
+```
 
 ## 🧠 Learning Goals
 
