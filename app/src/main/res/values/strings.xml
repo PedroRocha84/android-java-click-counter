@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Click Counter</string>
     <string name="counter">Counter</string>
-    <string name="_0">0</string>
-    <string name="bntClick">+</string>
-    <string name="reset">Reset</string>
+    <string name="editTextText">0</string>
+    <string name="bntAdd">+</string>
+    <string name="btnReset">Reset</string>
 </resources>
